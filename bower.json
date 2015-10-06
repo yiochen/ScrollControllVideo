@@ -1,0 +1,17 @@
+{
+  "name": "video_with_jquery",
+  "version": "0.0.0",
+  "authors": [
+    "yiochen <chen.yiou1992@gmail.com>"
+  ],
+  "description": "video using jquery",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
